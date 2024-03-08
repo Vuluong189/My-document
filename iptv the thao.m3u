@@ -17,3 +17,21 @@ https://epg.pw/stream/92b75e64e59e9cc9da72caf7a8a584f331e3ca955f890a08932b566055
 https://epg.pw/stream/2e2d5b3516f5e2bba808f3a821e219c19b5b575f9d5c05eed6abceaa3efad406.ctv
 #EXTINF:-1 tvg-name="true sport premier 2" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/21/20151021181508166802_19.jpg" group-title="Sports",[BD]true sport premier 2
 https://epg.pw/stream/9a75a023cd2ba84a8a6662d5d1910175db680ea84f2d8bd349fcb62c40e5db4e.m3u8
+#EXTINF:-1 tvg-name="sporttv 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005322259911_37.png" group-title="Portugal",[BD]sporttv 1
+https://epg.pw/stream/47d9fe610ae0c9ce02e19cdf979de7062ce3b30b77fa10ecef3df2bac1ea401a.m3u8
+#EXTINF:-1 tvg-name="sporttv 2" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005430330867_31.png" group-title="Portugal",[BD]sporttv 2
+https://epg.pw/stream/cb635f7ff096958bc284a5dcc046dd0f3d60bdf47339d90dc0945aa8c1cffd04.m3u8
+#EXTINF:-1 tvg-name="sporttv 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Portugal",[BD]sporttv 3
+https://epg.pw/stream/36f0e6073fb37990b4994f49addd4baf5fc18dfc82dd7366a00a1719915265a7.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-id="11144" tvg-country="Saudi Arabia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524223919778843_75.png" group-title="Saudi Arabia",[HD]bein 1
+https://epg.pw/stream/082103068403a9b1845db07c8d18a1c28533116d74c20b345a122c698fe04dbc.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4146" tvg-country="Saudi Arabia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224225388422_19.png" group-title="Saudi Arabia",[HD]bein sports 2@@3[geo-blocked]
+https://epg.pw/stream/ad8d47dbacb3235eb6548de4d580ca5fff17b248a39adaa34c93f0e625c1bf43.ctv
+#EXTINF:-1 tvg-name="digi sport 2" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[HD]digi sport 2[geo-blocked]
+https://epg.pw/stream/3f4809c1f95aa19cfb5ff0aba6bc3fcd0e509ee6234a7e89cddee09619b7d382.ctv
+#EXTINF:-1 tvg-name="digi sport 2" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 3[geo-blocked]
+https://epg.pw/stream/4ae4c43c9ddd987ad5b288fc0dbd79d4469b23cf75bd84fd75aee7f6b9d33277.ctv
+#EXTINF:-1 tvg-name="digi sport 2" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[HD]digi sport 2@@1[geo-blocked]
+https://epg.pw/stream/2bfd547610937d2b325a61ce00c4d42278fb42296d57e9e8451631ca3a90db26.ctv
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Malaysia",[BD]premiersports1-fhd[geo-blocked]
+https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
